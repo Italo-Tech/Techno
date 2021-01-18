@@ -1,0 +1,109 @@
+{
+  "produtos": [
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "preco": 2999,
+      "path": "../images/notebook.jpg",
+      "descricao": "Todas estas questões, devidamente ponderadas, levantam dúvidas sobre se a necessidade de renovação processual causa impacto indireto na reavaliação do orçamento setorial.",
+      "estoque": 12,
+      "pathImg": "../images/notebook-foto.jpg",
+      "avaliacoes": [
+        {
+          "nome": "Ítalo",
+          "estrelas": 5,
+          "opiniao": "Gostei muito do produto, atendeu todas as minhas necessidades."
+        },
+        {
+          "nome": "Silas",
+          "estrelas": 4,
+          "opiniao": "Produto muito bom, mas poderia ser um pouco mais barato."
+        }
+      ]
+    },
+    {
+      "id": "smartphone",
+      "nome": "Smartphone",
+      "preco": 1999,
+      "path": "../images/smartphone.jpg",
+      "descricao": "Todas estas questões, devidamente ponderadas, levantam dúvidas sobre se a necessidade de renovação processual causa impacto indireto na reavaliação do orçamento setorial.",
+      "estoque": 12,
+      "pathImg": "../images/smartphone-foto.jpg",
+      "avaliacoes": [
+        {
+          "nome": "Ítalo",
+          "estrelas": 5,
+          "opiniao": "Gostei muito do produto, atendeu todas as minhas necessidades."
+        },
+        {
+          "nome": "Silas",
+          "estrelas": 4,
+          "opiniao": "Produto muito bom, mas poderia ser um pouco mais barato."
+        }
+      ]
+    },
+    {
+      "id": "smartwatch",
+      "nome": "Smartwatch",
+      "preco": 1499,
+      "path": "../images/smartwatch.jpg",
+      "descricao": "Todas estas questões, devidamente ponderadas, levantam dúvidas sobre se a necessidade de renovação processual causa impacto indireto na reavaliação do orçamento setorial.",
+      "estoque": 22,
+      "pathImg": "../images/smartwatch-foto.jpg",
+      "avaliacoes": [
+        {
+          "nome": "Artur",
+          "estrelas": 4,
+          "opiniao": "Gostei muito do produto, atendeu todas as minhas necessidades."
+        },
+        {
+          "nome": "Karol",
+          "estrelas": 3,
+          "opiniao": "Produto muito bom, mas poderia ser um pouco mais barato."
+        }
+      ]
+    },
+    {
+      "id": "speaker",
+      "nome": "Speaker",
+      "preco": 1499,
+      "path": "../images/speaker.jpg",
+      "descricao": "Todas estas questões, devidamente ponderadas, levantam dúvidas sobre se a necessidade de renovação processual causa impacto indireto na reavaliação do orçamento setorial.",
+      "estoque": 18,
+      "pathImg": "../images/speaker-foto.jpg",
+      "avaliacoes": [
+        {
+          "nome": "Eduardo",
+          "estrelas": 5,
+          "opiniao": "Gostei muito do produto, atendeu todas as minhas necessidades."
+        },
+        {
+          "nome": "Karine",
+          "estrelas": 2,
+          "opiniao": "Produto muito bom, mas poderia ser um pouco mais barato."
+        }
+      ]
+    },
+    {
+      "id": "tablet",
+      "nome": "Tablet",
+      "preco": 1499,
+      "path": "../images/tablet.jpg",
+      "descricao": "Todas estas questões, devidamente ponderadas, levantam dúvidas sobre se a necessidade de renovação processual causa impacto indireto na reavaliação do orçamento setorial.",
+      "estoque": 14,
+      "pathImg": "../images/tablet-foto.jpg",
+      "avaliacoes": [
+        {
+          "nome": "David",
+          "estrelas": 5,
+          "opiniao": "Gostei muito do produto, atendeu todas as minhas necessidades."
+        },
+        {
+          "nome": "Luana",
+          "estrelas": 2,
+          "opiniao": "Produto muito bom, mas poderia ser um pouco mais barato."
+        }
+      ]
+    }
+  ]
+}
