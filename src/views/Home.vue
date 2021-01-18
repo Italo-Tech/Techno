@@ -5,11 +5,6 @@
         <!--Logotipo-->
       <img class="logo" src="../../public/images/techno.svg" alt="Techno">
       <div class="carrinho_menu" @click="carrinhoAtivo = true">{{carrinhoTotal | numeroPreco}} | {{carrinho.length}}</div>
-      <ul>
-        <li v-for="(item, index) in carrinho" :key="index">
-          <button @click.prevent="removerItem(index)">X</button>
-        </li>
-      </ul>
     </header>
 
     <section class="produtos">
@@ -51,7 +46,7 @@
       </div>
     </section>
 
-<!--
+    <!--Carrinho Modal-->
     <section class="carrinho_modal" :class="{ativo: carrinhoAtivo}" @click="clickForaCarrinho">
       <div class="carrinho_container">
         <button class="carrinho_fechar" @click="carrinhoAtivo = false">X</button>
@@ -69,7 +64,7 @@
         </div>
         <p v-else>O carrinho está vazio.</p>
       </div>
-    </section>-->
+    </section>
 
 
     <div class="alerta" :class="{ativo: alertaAtivo}">
@@ -458,6 +453,7 @@ export default {
   border: none;
   font-size: 1rem;
   cursor: pointer;
+  margin-left: 5px;
 }
 
 .carrinho_preco {
