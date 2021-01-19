@@ -12,13 +12,13 @@
 
 <div align="center">
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="#-#wrench-instalação-e-uso">Instalação e Uso</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#wrench-instalação-e-uso">Instalação e uso</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </div>
 
-<div align="center">
+<p align="center">
   <img alt="Frontend-Web" src="./public/github/techno-1.jpg">
-</div>
+</p>
 
 ## 👨🏼‍💻 Desenvolvedor 
 
