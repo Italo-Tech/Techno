@@ -46,7 +46,7 @@ Para rodar a aplicação, você precisa ter o [Node](https://nodejs.org/en/) ins
 
 1) Abra um terminal e copie este repositório com o comando
     ```
-    git clone https://github.com/Italo-Tech/Techno
+    git clone https://github.com/Italo-Tech/Techno_1Vuejs
     ```
     ou use a opção de download.
     
