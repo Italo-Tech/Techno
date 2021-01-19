@@ -1,3 +1,7 @@
+<h1 align="center">
+    <img alt="DevRadar" title="#DevRadar" src="./public/github/techno.svg" width="300px" />
+</h1>
+
 # techno
 
 ## Project setup
