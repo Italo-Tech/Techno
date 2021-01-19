@@ -37,7 +37,7 @@ Esse projeto foi desenvolvido com a seguinte tecnologia:
 Techno é meu primeiro projeto com vuejs que visa em ser um e-commerce voltado para compras de produtos eletrônicos.
 
 <div align="center">
-  <img alt="Frontend-Web" src="./public/github/gif.gif">
+  <img alt="Frontend-Web" src="./public/github/gif1.gif">
 </div>
 
 ## :wrench: Instalação e uso
