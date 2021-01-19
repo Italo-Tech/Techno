@@ -37,8 +37,7 @@ Esse projeto foi desenvolvido com a seguinte tecnologia:
 Techno é meu primeiro projeto com vuejs que visa em ser um e-commerce voltado para compras de produtos eletrônicos.
 
 <div align="center">
-  <img alt="Frontend-Web" src="./public/github/techno-2.jpg">
-  <img alt="Frontend-Mobile" src="./public/github/techno-3.jpg">
+  <img alt="Frontend-Web" src="./public/github/gif.gif">
 </div>
 
 ## :wrench: Instalação e uso
@@ -47,7 +46,7 @@ Para rodar a aplicação, você precisa ter o [Node](https://nodejs.org/en/) ins
 
 1) Abra um terminal e copie este repositório com o comando
     ```
-    git clone https://github.com/Italo-Tech/Techno
+    git clone https://github.com/Italo-Tech/Techno_1Vuejs
     ```
     ou use a opção de download.
     
