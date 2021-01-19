@@ -31,8 +31,8 @@ Esse projeto foi desenvolvido com a seguinte tecnologia:
 Techno é meu primeiro projeto com vuejs que visa em ser um e-commerce voltado para compras de produtos eletrônicos.
 
 <p align="center">
-  <img alt="Frontend-Web" src="./public/github/techno-2.svg" width="50%">
-  <img alt="Frontend-Mobile" src="./public/github/techno-3.svg" width="50%">
+  <img alt="Frontend-Web" src="./public/github/techno-2.jpg" width="50%">
+  <img alt="Frontend-Mobile" src="./public/github/techno-3.jpg" width="50%">
 </p>
 
 ## Project setup
