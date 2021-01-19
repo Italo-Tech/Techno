@@ -4,14 +4,16 @@
     </h1>
 </div>
 
-<h2 align="center">
-  🚀 Techno - Origamid
-</h2>
-<p align="center">
+<div align="center">
+    <h2>
+      🚀 Techno - Origamid
+    </h2>
+</div>
 
 <div align="center">
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#-#wrench-instalação-e-uso">Instalação e Uso</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
 <div align="center">
