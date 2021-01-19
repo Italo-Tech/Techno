@@ -5,20 +5,20 @@
 </div>
 
 <div align="center">
-    <h2>
-      🚀 Techno - Origamid
-    </h2>
-</div>
-
-<div align="center">
-  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#wrench-instalação-e-uso">Instalação e uso</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <h2> 🚀 Techno - Origamid </h2>
 </div>
 
 <p align="center">
-  <img alt="Frontend-Web" src="./public/github/techno-1.jpg">
+  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#wrench-instalação-e-uso">Instalação e uso</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
+
+</br>
+
+<div align="center">
+  <img alt="Frontend-Web" src="./public/github/techno-1.jpg">
+</div>
 
 ## 👨🏼‍💻 Desenvolvedor 
 
@@ -37,8 +37,8 @@ Esse projeto foi desenvolvido com a seguinte tecnologia:
 Techno é meu primeiro projeto com vuejs que visa em ser um e-commerce voltado para compras de produtos eletrônicos.
 
 <div align="center">
-  <img alt="Frontend-Web" src="./public/github/techno-2.jpg" width="50%">
-  <img alt="Frontend-Mobile" src="./public/github/techno-3.jpg" width="50%">
+  <img alt="Frontend-Web" src="./public/github/techno-2.jpg">
+  <img alt="Frontend-Mobile" src="./public/github/techno-3.jpg">
 </div>
 
 ## :wrench: Instalação e uso
