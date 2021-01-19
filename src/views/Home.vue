@@ -31,7 +31,6 @@
           <!-- Adicionar Carrinho -->
           <button v-if="produto.data.estoque > 0" class="modal_btn" @click="adicionarItem">Adicionar Item</button>
           <button v-else class="modal_btn esgotado" disabled>Produto Esgotado</button>
-          <p>{{ produto.data.estoque }}</p>
         </div>
 
         <div class="avaliacoes">
@@ -161,9 +160,9 @@ export default {
       }, 1500);
     },
     router() {
-      const hash = document.location.hash;
+      /*const hash = document.location.hash;
       if (hash)
-        this.axiosProduct(hash.replace("#", ""));
+        this.axiosProduct(hash.replace("#", ""));*/
     }
   },
   watch: {
@@ -171,9 +170,9 @@ export default {
       document.title = this.produto.data.nome || "Techno";
       const hash = this.produto.data.id || "";
       history.pushState(null, null, `#${hash}`);
-      /*if (this.produto) {
+      if (this.produto) {
         this.compararEstoque();
-      }*/
+      }
     },
     /*Transforma minha array carrinho em uma string com stringfy*/
     carrinho() {
